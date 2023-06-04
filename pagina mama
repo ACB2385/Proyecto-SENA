@@ -1,0 +1,81 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+  <title>Tienda de productos</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1><div class="container">
+<div class="container">
+  <h1 class="page-title">Bienvenidos a la Tienda de Productos</h1>
+</div>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#">Inicio</a></li>
+      <li><a href="#">Muñecas</a></li>
+      <li><a href="#">Oboticario</a></li>
+      <li><a href="#">Otros</a></li>
+    </ul>
+  </nav>
+  
+  <section1>
+    <h2>Muñecas</h2>
+    <div class="product">
+      <img src="C:/Users/Usuario/Downloads/Muñeca spiderman.jpeg" alt="Producto 1"/width="300" height="200">
+      <h3>Spider Muñeca</h3>
+      <p>Precio: $90.000 (colombianos)</p>
+      <p>Un muñeco de spiderman tejido 100% a mano junto con 4 tulipanes tejidos incluidos</p>
+    </div>
+
+    <section2>
+    <div class="producot">
+      <img src="C:/Users/Usuario/Downloads/Boboticario.jpeg" alt="Producto 2"/width="300" height="200">
+      <h3>Boboticario </h3>
+      <p>Precio: Depende</p>
+      <p>________________</p>
+    </div>
+  
+    <div Class="producto"> 
+     <img src= "C:/Users/Usuario/Downloads/Soy.jpeg" alt="producto 3"/width="300" height="200">
+      <h3>Productos Boticario NativaSPA</h3>
+      <p>precio: </p>
+      <p>_________________</p>
+
+      <div Class="producto"> 
+     <img src= "C:/Users/Usuario/Downloads/Homelo.jpeg" alt="producto 3"/width="300" height="200">
+      <h3>Productos Boticario NativaSPA</h3>
+      <p>precio: </p>
+      <p>_________________</p>
+
+      <div Class="producto"> 
+     <img src= "C:/Users/Usuario/Downloads/Chino.jpeg" alt="producto 3"/width="300" height="200">
+      <h4>Productos Boticario NativaSPA</h4>
+      <p>precio: </p>
+      <p>_________________</p>
+
+
+
+   <section>
+
+     
+
+   </section>
+
+    </div>
+  <footer>
+    <p>Contactenos: andres.acevedo385@gmail.com</p>
+
+    <p>
+      Esta pagian web fue diseñada como proyecto para un curso de estudio que estoy realizando, por favor tener paciencia y notificar algun error o alguna inquietud al correo que se dejo mas arriba
+    </p>
+
+  </footer>
+  <p> Creditos correspondientes a los creadores a la pagina:
+    @Andres Felipe Acevedo Marin,
+    https://chat.openai.com/c/b4b95a6a-c87e-4d38-8bf7-86cc1b2f4c6f "ChatGPT",
+    Vendedora y productora: @Lina Yulieth Marin Ramirez.
+</body>
+</html>
